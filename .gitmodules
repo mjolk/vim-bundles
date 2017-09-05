@@ -37,3 +37,9 @@
 [submodule "vim-surround"]
 	path = vim-surround
 	url = https://github.com/tpope/vim-surround.git
+[submodule "tsuquyomi"]
+	path = tsuquyomi
+	url = https://github.com/Quramy/tsuquyomi.git
+[submodule "scratch.vim"]
+	path = scratch.vim
+	url = https://github.com/mtth/scratch.vim.git
