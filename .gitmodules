@@ -25,9 +25,6 @@
 [submodule "vim-fugitive"]
 	path = vim-fugitive
 	url = https://github.com/tpope/vim-fugitive.git
-[submodule "vim-go"]
-	path = vim-go
-	url = https://github.com/mjolk/vim-go.git
 [submodule "vim-json"]
 	path = vim-json
 	url = https://github.com/elzr/vim-json.git
