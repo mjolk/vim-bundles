@@ -40,3 +40,6 @@
 [submodule "scratch.vim"]
 	path = scratch.vim
 	url = https://github.com/mtth/scratch.vim.git
+[submodule "vim-go"]
+	path = vim-go
+	url = https://github.com/mjolk/vim-go.git
