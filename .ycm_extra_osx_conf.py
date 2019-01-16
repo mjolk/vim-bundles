@@ -1,3 +1,9 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# File   : .ycm_extra_osx_conf.py
+# License: MIT/X11
+# Author : Dries Pauwels <2mjolk@gmail.com>
+# Date   : do 13 sep 2018 10:24
 import os
 import ycm_core
 
@@ -28,8 +34,8 @@ flags = [
     '-x', 'c',
     # This path will only work on OS X, but extra paths that don't exist are not
     # harmful
-    '-isystem',
-    '/usr/local/include',
+    #'-isystem',
+    #'/usr/local/include',
     '-I',
     '/usr/local/include',
     '-I',

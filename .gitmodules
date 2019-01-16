@@ -43,3 +43,12 @@
 [submodule "vim-go"]
 	path = vim-go
 	url = https://github.com/mjolk/vim-go.git
+[submodule "vim-flatbuffers"]
+	path = vim-flatbuffers
+	url = https://github.com/zchee/vim-flatbuffers.git
+[submodule "vim-header"]
+	path = vim-header
+	url = https://github.com/alpertuna/vim-header.git
+[submodule "vim-syntax-extra"]
+	path = vim-syntax-extra
+	url = https://github.com/justinmk/vim-syntax-extra.git
