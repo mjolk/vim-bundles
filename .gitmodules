@@ -28,9 +28,6 @@
 [submodule "vim-json"]
 	path = vim-json
 	url = https://github.com/elzr/vim-json.git
-[submodule "vim-obsession"]
-	path = vim-obsession
-	url = git://github.com/tpope/vim-obsession.git
 [submodule "vim-surround"]
 	path = vim-surround
 	url = https://github.com/tpope/vim-surround.git
@@ -52,3 +49,6 @@
 [submodule "vim-syntax-extra"]
 	path = vim-syntax-extra
 	url = https://github.com/justinmk/vim-syntax-extra.git
+[submodule "vim-obsession"]
+	path = vim-obsession
+	url = https://github.com/tpope/vim-obsession.git
