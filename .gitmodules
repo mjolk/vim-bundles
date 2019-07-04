@@ -43,12 +43,12 @@
 [submodule "vim-flatbuffers"]
 	path = vim-flatbuffers
 	url = https://github.com/zchee/vim-flatbuffers.git
-[submodule "vim-header"]
-	path = vim-header
-	url = https://github.com/alpertuna/vim-header.git
 [submodule "vim-syntax-extra"]
 	path = vim-syntax-extra
 	url = https://github.com/justinmk/vim-syntax-extra.git
 [submodule "vim-obsession"]
 	path = vim-obsession
 	url = https://github.com/tpope/vim-obsession.git
+[submodule "vim-airline-themes"]
+	path = vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git
