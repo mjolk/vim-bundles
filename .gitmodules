@@ -52,3 +52,6 @@
 [submodule "vim-airline-themes"]
 	path = vim-airline-themes
 	url = https://github.com/vim-airline/vim-airline-themes.git
+[submodule "vim-prettier"]
+	path = vim-prettier
+	url = https://github.com/prettier/vim-prettier.git

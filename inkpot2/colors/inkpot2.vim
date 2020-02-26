@@ -58,7 +58,7 @@ hi Comment        gui=NONE   guifg=#cd8b00   guibg=NONE
 hi Constant       gui=NONE   guifg=#ffcd8b   guibg=NONE
 hi String         gui=NONE   guifg=#DEDBFF   guibg=#780000
 hi Error          gui=NONE   guifg=#ffffff   guibg=#6e2e2e
-hi Identifier     gui=BOLD   guifg=#E3D213   guibg=NONE
+hi Identifier     gui=BOLD   guifg=#AA97FF  guibg=NONE
 hi Ignore         gui=NONE
 hi Number         gui=BOLD   guifg=#E10E24   guibg=NONE
 hi PreProc        gui=NONE   guifg=#409090   guibg=NONE
